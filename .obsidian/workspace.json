@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "7ceeb5122ca57698",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a7bb625323a79e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fda6fac8ed48f94a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Идеи для Любы/Грибы и листья.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e73c4c69efa8b313",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2302b0e26efb0cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ef0c76a21b7f139",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29b7a80bfa841efa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d7fe128e359b99d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a671713bbd4aba7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c2e1089248e2ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6572553974fa229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Идеи для Любы/Грибы и листья.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77711062155d50dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Идеи для Любы/Грибы и листья.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a1fa96286ed2768",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee41385a39eed876",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Идеи для Любы/Грибы и листья.md"
+              }
+            }
+          },
+          {
+            "id": "a7340c06c6c38573",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "1ef0c76a21b7f139",
+  "lastOpenFiles": [
+    "Вложения/Pasted image 20230513123223.png",
+    "Вложения",
+    "Идеи для Любы",
+    "Идеи для Любы/Грибы и листья.md"
+  ]
+}
